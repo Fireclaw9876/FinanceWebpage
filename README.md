@@ -3,8 +3,11 @@ A personal finance tracker that allows users to log in and out, buy/sell stocks,
 
 # Getting Started
 Install all dependencies using the command: pip install -r requirements.txt
+
 Register for IEX API key: iexcloud.io/cloud-login#/register/
+
 Export your key as an environment variable: export API_KEY=[your_API_KEY]
+
 Run the development web server using the command: flask run
 
 # Features
