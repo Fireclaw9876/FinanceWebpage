@@ -12,7 +12,11 @@ Run the development web server using the command: flask run
 
 # Features
 Query Stock Prices
+
 Buy & Sell Stocks
+
 Add Funds
+
 Login & Register
+
 View Transaction History
